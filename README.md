@@ -1,6 +1,5 @@
 # Thoracic Surgery for Lung Cancer Data Set
-### From [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data "UCI ML Repository: Thoracic Surgery Data Set")
----
+ From [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data "UCI ML Repository: Thoracic Surgery Data Set")
 
 ### Main
 
