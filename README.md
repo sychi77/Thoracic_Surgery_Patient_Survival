@@ -33,7 +33,7 @@ The *Data_Wrangling* Jupyter notebook file shows how I changed the original data
 |   **Pain**  | Pain before surgery (T = 1, F = 0)  |
 |   **Tumor_Size**  |  T in clinical TNM - size of the original tumor, 1 (smallest) to 4 (largest) |
 |   **Diabetes_Mellitus**  | Type 2 diabetes mellitus (T = 1, F = 0)   |
-|   **MI_6mo**  | Myocardial infarcation (Heart Attack) up to 6 months (T = 1, F = 0)   |
+|   **MI_6mo**  | Myocardial infarction (Heart Attack) up to 6 months (T = 1, F = 0)   |
 |   **PAD**  | Peripheral arterial diseases (T = 1, F = 0)   |
 |   **Smoking**  | Smoking (T = 1, F = 0)   |
 |   **Asthma**  | Asthma (T = 1, F = 0)   |
