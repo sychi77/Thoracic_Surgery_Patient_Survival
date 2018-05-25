@@ -3,7 +3,11 @@
 
 ### Main
 
-The Jupyter notebook [ThoracicSurgery](https://github.com/sychi77/CapstoneProject1/blob/master/ThoracicSurgery.ipynb "ThoracicSurgery Jupyter Notebook") contains the main code/report.
+The Jupyter notebook [ThoracicSurgery](https://github.com/sychi77/CapstoneProject1/blob/master/ThoracicSurgery.ipynb "ThoracicSurgery Jupyter Notebook") contains the main code.
+
+[Thoracic_Surgery_Presentation](https://github.com/sychi77/CapstoneProject1/blob/master/Thoracic_Surgery_Presentation.pdf "ThoracicSurgery PowerPoint Slides") contains the PowerPoint slides presentation.
+
+[Thoracic_Surgery_Report](https://github.com/sychi77/CapstoneProject1/blob/master/Thoracic_Surgery_Report.pdf "ThoracicSurgery Report") contains the project report.
 
 ### Abstract
 
